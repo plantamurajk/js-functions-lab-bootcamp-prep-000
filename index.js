@@ -1,4 +1,6 @@
-// write your code below!
+// Code for Flatiron School Bootcamp functions lab
+// By Jack Plantamura
+// 6-16-19
 
 function happyHolidays(){
   return "Happy holidays!"
